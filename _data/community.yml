@@ -320,3 +320,14 @@
       date: 2017-05-13
       link: https://www.linuxwochen-linz.at/2017/
 
+-
+  id: jcon2017
+  name: "JCON 2017 (Düsseldorf)"
+  events:
+    -
+      name: "JCON 2017"
+      location: Düsseldorf (24.-26. Oktober)
+      date: 2017-10-24
+      link: http://jcon.one
+	  cost: 100% Rabatt für eJUG Mitglieder (https://www.meetup.com/Enterprise-Java-User-Group-Austria/messages/boards/thread/50915426)
+
