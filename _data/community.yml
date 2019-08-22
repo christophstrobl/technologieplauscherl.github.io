@@ -267,6 +267,11 @@
       location: "smec"
       date: 2018-04-26
       link: https://www.meetup.com/Enterprise-Java-User-Group-Austria/events/248024229/
+    -
+      name: "EJUG: Spring Framework 5.2 & Spring Data JDBC"
+      location: "smec"
+      date: 2019-09-04
+      link: https://www.meetup.com/Enterprise-Java-User-Group-Austria/events/264123479/
 -
   id: responsive
   name: "Responsive Org Linz"
