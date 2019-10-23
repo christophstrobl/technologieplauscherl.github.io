@@ -248,25 +248,10 @@
   name: "EJUG"
   events:
     -
-      name: "EJUG devone warmup"
-      location: "Dynatrace"
-      date: 2017-05-31
-      link: https://www.meetup.com/de-DE/Enterprise-Java-User-Group-Austria/events/239295710/
-    -
-      name: "EJUG Linz"
-      location: "Wissensturm"
-      date: 2017-09-12
-      link: https://www.meetup.com/de-DE/Enterprise-Java-User-Group-Austria/events/241997768/
-    -
-      name: "EJUG: Kotlin all the things!"
-      location: "Catalysts Digital Future Space"
-      date: 2018-03-28
-      link: https://www.meetup.com/Enterprise-Java-User-Group-Austria/events/248023580/
-    -
-      name: "EJUG: Cloud Native Java & Bootiful Testing"
-      location: "smec"
-      date: 2018-04-26
-      link: https://www.meetup.com/Enterprise-Java-User-Group-Austria/events/248024229/
+      name: "Enterprise Tests die Freude bereiten & 7 Prinzipien von effektiven Entwicklern"
+      location: "Catalysts - Digital Future Space"
+      date: 2019-11-18
+      link: https://www.meetup.com/Enterprise-Java-User-Group-Austria/events/265310878/
 -
   id: responsive
   name: "Responsive Org Linz"
